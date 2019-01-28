@@ -1,6 +1,6 @@
 var tbValue = 0;
 var subject = new Array();//學科,分數,等地,積分
-var chg = 0;
+var chg = 0;123
 //-------------------------
 function gpa(value){
     var sjId=7;
